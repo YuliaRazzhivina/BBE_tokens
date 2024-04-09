@@ -1,0 +1,250 @@
+{
+  "Static Core": {
+    "static": {
+      "xBase": {
+        "value": "4",
+        "type": "sizing",
+        "description": "Базовый модуль"
+      },
+      "sizes": {
+        "50": {
+          "value": "{static.xBase}/2",
+          "type": "sizing"
+        },
+        "100": {
+          "value": "{static.xBase}",
+          "type": "sizing"
+        },
+        "200": {
+          "value": "{static.xBase}*2",
+          "type": "sizing"
+        },
+        "300": {
+          "value": "{static.xBase}*3",
+          "type": "sizing"
+        },
+        "400": {
+          "value": "{static.xBase}*4",
+          "type": "sizing"
+        },
+        "500": {
+          "value": "{static.xBase}*5",
+          "type": "sizing"
+        },
+        "600": {
+          "value": "{static.xBase}*6",
+          "type": "sizing"
+        },
+        "700": {
+          "value": "{static.xBase}*7",
+          "type": "sizing"
+        },
+        "800": {
+          "value": "{static.xBase}*8",
+          "type": "sizing"
+        },
+        "900": {
+          "value": "{static.xBase}*9",
+          "type": "sizing"
+        },
+        "1000": {
+          "value": "{static.xBase}*10",
+          "type": "sizing"
+        }
+      },
+      "spacing": {
+        "50": {
+          "value": "{static.xBase}/2",
+          "type": "spacing"
+        },
+        "100": {
+          "value": "{static.xBase}",
+          "type": "spacing"
+        },
+        "200": {
+          "value": "{static.xBase}*2",
+          "type": "spacing"
+        },
+        "300": {
+          "value": "{static.xBase}*3",
+          "type": "spacing"
+        },
+        "400": {
+          "value": "{static.xBase}*4",
+          "type": "spacing"
+        },
+        "500": {
+          "value": "{static.xBase}*5",
+          "type": "spacing"
+        },
+        "600": {
+          "value": "{static.xBase}*6",
+          "type": "spacing"
+        },
+        "700": {
+          "value": "{static.xBase}*7",
+          "type": "spacing"
+        },
+        "800": {
+          "value": "{static.xBase}*8",
+          "type": "spacing"
+        },
+        "900": {
+          "value": "{static.xBase}*9",
+          "type": "spacing"
+        },
+        "1000": {
+          "value": "{static.xBase}*10",
+          "type": "spacing"
+        }
+      },
+      "radii": {
+        "0": {
+          "value": "0",
+          "type": "borderRadius"
+        },
+        "50": {
+          "value": "{static.xBase}/2",
+          "type": "borderRadius"
+        },
+        "100": {
+          "value": "{static.xBase}",
+          "type": "borderRadius"
+        },
+        "200": {
+          "value": "{static.xBase}*2",
+          "type": "borderRadius"
+        },
+        "300": {
+          "value": "{static.xBase}*3",
+          "type": "borderRadius"
+        },
+        "400": {
+          "value": "{static.xBase}*4",
+          "type": "borderRadius"
+        },
+        "500": {
+          "value": "{static.xBase}*5",
+          "type": "borderRadius"
+        },
+        "600": {
+          "value": "{static.xBase}*6",
+          "type": "borderRadius"
+        },
+        "700": {
+          "value": "{static.xBase}*7",
+          "type": "borderRadius"
+        },
+        "800": {
+          "value": "{static.xBase}*8",
+          "type": "borderRadius"
+        },
+        "900": {
+          "value": "{static.xBase}*9",
+          "type": "borderRadius"
+        },
+        "1000": {
+          "value": "{static.xBase}*25",
+          "type": "borderRadius"
+        }
+      }
+    }
+  },
+  "Semantic": {
+    "semantic": {
+      "sizes": {
+        "xxs": {
+          "value": "{static.sizes.100}",
+          "type": "sizing"
+        },
+        "xs": {
+          "value": "{static.sizes.200}",
+          "type": "sizing"
+        },
+        "s": {
+          "value": "{static.sizes.400}",
+          "type": "sizing"
+        },
+        "m": {
+          "value": "{static.sizes.500}",
+          "type": "sizing"
+        },
+        "l": {
+          "value": "{static.sizes.600}",
+          "type": "sizing"
+        },
+        "xl": {
+          "value": "{static.sizes.800}",
+          "type": "sizing"
+        }
+      },
+      "spaces": {
+        "xxs": {
+          "value": "{static.spacing.50}",
+          "type": "spacing"
+        },
+        "xs": {
+          "value": "{static.spacing.100}",
+          "type": "spacing"
+        },
+        "s": {
+          "value": "{static.spacing.200}",
+          "type": "spacing"
+        },
+        "m": {
+          "value": "{static.spacing.400}",
+          "type": "spacing"
+        },
+        "l": {
+          "value": "{static.spacing.600}",
+          "type": "spacing"
+        },
+        "xl": {
+          "value": "{static.spacing.800}",
+          "type": "spacing"
+        }
+      },
+      "radii": {
+        "none": {
+          "value": "{static.radii.0}",
+          "type": "borderRadius"
+        },
+        "xxs": {
+          "value": "{static.radii.50}",
+          "type": "borderRadius"
+        },
+        "xs": {
+          "value": "{static.radii.100}",
+          "type": "borderRadius"
+        },
+        "s": {
+          "value": "{static.radii.200}",
+          "type": "borderRadius"
+        },
+        "m": {
+          "value": "{static.radii.300}",
+          "type": "borderRadius"
+        },
+        "l": {
+          "value": "{static.radii.400}",
+          "type": "borderRadius"
+        },
+        "xl": {
+          "value": "{static.radii.700}",
+          "type": "borderRadius"
+        },
+        "full": {
+          "value": "{static.radii.1000}",
+          "type": "borderRadius"
+        }
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "Static Core",
+      "Semantic"
+    ]
+  }
+}
