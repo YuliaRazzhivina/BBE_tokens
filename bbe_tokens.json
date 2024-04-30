@@ -588,11 +588,46 @@
       }
     }
   },
+  "Typography": {
+    "FontFamilies": {
+      "display": {
+        "value": "Arial",
+        "type": "fontFamilies"
+      },
+      "headline": {
+        "value": "Arial",
+        "type": "fontFamilies"
+      },
+      "body": {
+        "value": "Arial",
+        "type": "fontFamilies"
+      }
+    },
+    "FontWeights": {
+      "display": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "headline": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "bodyRegular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "bodyBold": {
+        "value": "Bold",
+        "type": "fontWeights"
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "Static Core",
-      "Semantic"
+      "Semantic",
+      "Typography"
     ]
   }
 }
