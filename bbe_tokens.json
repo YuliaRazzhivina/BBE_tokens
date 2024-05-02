@@ -875,7 +875,7 @@
             "fontFamily": "{FontFamilies.display}",
             "fontWeight": "{FontWeights.display}",
             "fontSize": "{FontSizes.semantic.displayL}",
-            "lineHeight": "{LineHeights.semantic.displayXL}",
+            "lineHeight": "{LineHeights.semantic.displayL}",
             "letterSpacing": "{LetterSpacings.semantic.normal}",
             "paragraphSpacing": "0",
             "paragraphIndent": "0",
