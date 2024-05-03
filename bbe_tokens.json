@@ -50,6 +50,46 @@
         "1000": {
           "value": "{static.xBase}*10",
           "type": "sizing"
+        },
+        "1100": {
+          "value": "{static.xBase}*11",
+          "type": "sizing"
+        },
+        "1200": {
+          "value": "{static.xBase}*12",
+          "type": "sizing"
+        },
+        "1300": {
+          "value": "{static.xBase}*13",
+          "type": "sizing"
+        },
+        "1400": {
+          "value": "{static.xBase}*14",
+          "type": "sizing"
+        },
+        "1500": {
+          "value": "{static.xBase}*15",
+          "type": "sizing"
+        },
+        "1600": {
+          "value": "{static.xBase}*16",
+          "type": "sizing"
+        },
+        "1700": {
+          "value": "{static.xBase}*17",
+          "type": "sizing"
+        },
+        "1800": {
+          "value": "{static.xBase}*18",
+          "type": "sizing"
+        },
+        "1900": {
+          "value": "{static.xBase}*19",
+          "type": "sizing"
+        },
+        "2000": {
+          "value": "{static.xBase}*20",
+          "type": "sizing"
         }
       },
       "spacing": {
@@ -95,6 +135,46 @@
         },
         "1000": {
           "value": "{static.xBase}*10",
+          "type": "spacing"
+        },
+        "1100": {
+          "value": "{static.xBase}*11",
+          "type": "spacing"
+        },
+        "1200": {
+          "value": "{static.xBase}*12",
+          "type": "spacing"
+        },
+        "1300": {
+          "value": "{static.xBase}*13",
+          "type": "spacing"
+        },
+        "1400": {
+          "value": "{static.xBase}*14",
+          "type": "spacing"
+        },
+        "1500": {
+          "value": "{static.xBase}*15",
+          "type": "spacing"
+        },
+        "1600": {
+          "value": "{static.xBase}*16",
+          "type": "spacing"
+        },
+        "1700": {
+          "value": "{static.xBase}*17",
+          "type": "spacing"
+        },
+        "1800": {
+          "value": "{static.xBase}*18",
+          "type": "spacing"
+        },
+        "1900": {
+          "value": "{static.xBase}*19",
+          "type": "spacing"
+        },
+        "2000": {
+          "value": "{static.xBase}*20",
           "type": "spacing"
         }
       },
@@ -396,6 +476,10 @@
         "xl": {
           "value": "{static.sizes.800}",
           "type": "sizing"
+        },
+        "xxl": {
+          "value": "{static.sizes.1000}",
+          "type": "sizing"
         }
       },
       "spaces": {
@@ -421,6 +505,10 @@
         },
         "xl": {
           "value": "{static.spacing.800}",
+          "type": "spacing"
+        },
+        "xxl": {
+          "value": "{static.spacing.1000}",
           "type": "spacing"
         }
       },
@@ -450,7 +538,11 @@
           "type": "borderRadius"
         },
         "xl": {
-          "value": "{static.radii.700}",
+          "value": "{static.radii.600}",
+          "type": "borderRadius"
+        },
+        "xxl": {
+          "value": "{static.radii.800}",
           "type": "borderRadius"
         },
         "full": {
