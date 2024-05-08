@@ -677,6 +677,60 @@
           "value": "{static.blue.100}",
           "type": "color"
         }
+      },
+      "text": {
+        "primary": {
+          "value": "{semantic.primary.primary}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{semantic.primary.secondary}",
+          "type": "color"
+        },
+        "primary-invert": {
+          "value": "{static.bw.white}",
+          "type": "color"
+        },
+        "brand": {
+          "value": "{semantic.brand.primary}",
+          "type": "color"
+        },
+        "error": {
+          "value": "{semantic.error.primary}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "primary": {
+          "value": "{semantic.primary.primary}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{semantic.primary.secondary}",
+          "type": "color"
+        },
+        "invert": {
+          "value": "{static.bw.white}",
+          "type": "color"
+        },
+        "brand": {
+          "value": "{semantic.brand.primary}",
+          "type": "color"
+        },
+        "error": {
+          "value": "{semantic.error.primary}",
+          "type": "color"
+        }
+      },
+      "outline": {
+        "primary": {
+          "value": "{semantic.primary.secondary}",
+          "type": "color"
+        },
+        "brand": {
+          "value": "{semantic.brand.primary}",
+          "type": "color"
+        }
       }
     }
   },
