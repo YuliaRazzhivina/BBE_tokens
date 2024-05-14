@@ -770,117 +770,117 @@
     "LineHeights": {
       "static": {
         "100": {
-          "value": "{xBase}*3",
+          "value": "{static.xBase}*3",
           "type": "lineHeights"
         },
         "200": {
-          "value": "{xBase}*4",
+          "value": "{static.xBase}*4",
           "type": "lineHeights"
         },
         "300": {
-          "value": "{xBase}*5",
+          "value": "{static.xBase}*5",
           "type": "lineHeights"
         },
         "400": {
-          "value": "{xBase}*6",
+          "value": "{static.xBase}*6",
           "type": "lineHeights"
         },
         "500": {
-          "value": "{xBase}*7",
+          "value": "{static.xBase}*7",
           "type": "lineHeights"
         },
         "600": {
-          "value": "{xBase}*8",
+          "value": "{static.xBase}*8",
           "type": "lineHeights"
         },
         "700": {
-          "value": "{xBase}*10",
+          "value": "{static.xBase}*10",
           "type": "lineHeights"
         },
         "800": {
-          "value": "{xBase}*11",
+          "value": "{static.xBase}*11",
           "type": "lineHeights"
         },
         "900": {
-          "value": "{xBase}*12",
+          "value": "{static.xBase}*12",
           "type": "lineHeights"
         }
       },
       "semantic": {
         "bodyS": {
           "tight": {
-            "value": "{LineHeights.static.100}+{xBase}",
+            "value": "{LineHeights.static.100}+{static.xBase}",
             "type": "lineHeights"
           },
           "paragraph": {
-            "value": "{LineHeights.static.100}+{xBase}*2",
+            "value": "{LineHeights.static.100}+{static.xBase}*2",
             "type": "lineHeights"
           }
         },
         "bodyM": {
           "tight": {
-            "value": "{LineHeights.static.200}+{xBase}",
+            "value": "{LineHeights.static.200}+{static.xBase}",
             "type": "lineHeights"
           },
           "paragraph": {
-            "value": "{LineHeights.static.200}+{xBase}*2",
+            "value": "{LineHeights.static.200}+{static.xBase}*2",
             "type": "lineHeights"
           }
         },
         "bodyL": {
           "tight": {
-            "value": "{LineHeights.static.300}+{xBase}",
+            "value": "{LineHeights.static.300}+{static.xBase}",
             "type": "lineHeights"
           },
           "paragraph": {
-            "value": "{LineHeights.static.300}+{xBase}*2",
+            "value": "{LineHeights.static.300}+{static.xBase}*2",
             "type": "lineHeights"
           }
         },
         "bodyXL": {
           "tight": {
-            "value": "{LineHeights.static.400}+{xBase}",
+            "value": "{LineHeights.static.400}+{static.xBase}",
             "type": "lineHeights"
           },
           "paragraph": {
-            "value": "{LineHeights.static.400}+{xBase}*2",
+            "value": "{LineHeights.static.400}+{static.xBase}*2",
             "type": "lineHeights"
           }
         },
         "headlineXS": {
-          "value": "{LineHeights.static.200}+{xBase}",
+          "value": "{LineHeights.static.200}+{static.xBase}",
           "type": "lineHeights"
         },
         "headlineS": {
-          "value": "{LineHeights.static.300}+{xBase}",
+          "value": "{LineHeights.static.300}+{static.xBase}",
           "type": "lineHeights"
         },
         "headlineM": {
-          "value": "{LineHeights.static.400}+{xBase}",
+          "value": "{LineHeights.static.400}+{static.xBase}",
           "type": "lineHeights"
         },
         "headlineL": {
-          "value": "{LineHeights.static.500}+{xBase}*2",
+          "value": "{LineHeights.static.500}+{static.xBase}*2",
           "type": "lineHeights"
         },
         "headlineXL": {
-          "value": "{LineHeights.static.600}+{xBase}*2",
+          "value": "{LineHeights.static.600}+{static.xBase}*2",
           "type": "lineHeights"
         },
         "displayS": {
-          "value": "{LineHeights.static.600}+{xBase}*2",
+          "value": "{LineHeights.static.600}+{static.xBase}*2",
           "type": "lineHeights"
         },
         "displayM": {
-          "value": "{LineHeights.static.700}+{xBase}*2",
+          "value": "{LineHeights.static.700}+{static.xBase}*2",
           "type": "lineHeights"
         },
         "displayL": {
-          "value": "{LineHeights.static.800}+{xBase}*2",
+          "value": "{LineHeights.static.800}+{static.xBase}*2",
           "type": "lineHeights"
         },
         "displayXL": {
-          "value": "{LineHeights.static.900}+{xBase}*2",
+          "value": "{LineHeights.static.900}+{static.xBase}*2",
           "type": "lineHeights"
         }
       }
@@ -888,39 +888,39 @@
     "FontSizes": {
       "static": {
         "100": {
-          "value": "{xBase}*3+1",
+          "value": "{static.xBase}*3+1",
           "type": "fontSizes"
         },
         "200": {
-          "value": "{xBase}*4-1",
+          "value": "{static.xBase}*4-1",
           "type": "fontSizes"
         },
         "300": {
-          "value": "{xBase}*5-1",
+          "value": "{static.xBase}*5-1",
           "type": "fontSizes"
         },
         "400": {
-          "value": "{xBase}*6-2",
+          "value": "{static.xBase}*6-2",
           "type": "fontSizes"
         },
         "500": {
-          "value": "{xBase}*7",
+          "value": "{static.xBase}*7",
           "type": "fontSizes"
         },
         "600": {
-          "value": "{xBase}*8+2",
+          "value": "{static.xBase}*8+2",
           "type": "fontSizes"
         },
         "700": {
-          "value": "{xBase}*10",
+          "value": "{static.xBase}*10",
           "type": "fontSizes"
         },
         "800": {
-          "value": "{xBase}*11+1",
+          "value": "{static.xBase}*11+1",
           "type": "fontSizes"
         },
         "900": {
-          "value": "{xBase}*12+2",
+          "value": "{static.xBase}*12+2",
           "type": "fontSizes"
         }
       },
@@ -1355,10 +1355,6 @@
           }
         }
       }
-    },
-    "xBase": {
-      "value": "4",
-      "type": "sizing"
     }
   },
   "$themes": [],
